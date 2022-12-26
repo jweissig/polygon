@@ -7,6 +7,6 @@ This is for educational use only.
 ## TODO:
 
 * Use flag to load in json file vs hardcode it
+* Output to file vs stdout
 * Exclude trades based on condition codes
 * The volume weighted average price
-
